@@ -24,4 +24,12 @@ import {
 - About
 - Stuff
 
+## How do I use the router?
+
+wrap your entire app with it.
+
 ## How to create a nav?
+
+```js
+
+```
