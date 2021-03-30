@@ -25,6 +25,7 @@ useEffect(() => {
   axios.get('/api')
   .then((resp) => {
     console.log(resp.data);
+    //console.log(resp);
     setData(resp.data)
   });
 }, [])
